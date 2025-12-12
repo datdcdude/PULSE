@@ -1,13 +1,11 @@
 ﻿Pulse Protocol is a decentralized, non-custodial, tier-based coordination system designed to restore:
--circulation
--sustainability and,
--participatory governance to digital economic activity.
-
+circulation
+sustainability and,
+participatory governance to digital economic activity.
 At its core, Pulse Protocol replaces extractive, hype-driven token models with a deterministic, regenerative architecture where participation advances through:
--structured tiers
--value continuously recirculates, 
--and governance authority emerges from engagement rather than capital concentration.
-
+structured tiers
+value continuously recirculates, 
+and governance authority emerges from engagement rather than capital concentration.
 The protocol is governed by the Pulse Protocol DAO and coordinated through the $PULSE token, which functions exclusively as a utility and governance mechanism—not as equity, debt, or a profit-sharing instrument.
-Pulse Protocol does not promise financial returns, does not have custody user assets, and does not operate as an investment product. 
+Pulse Protocol does not promise financial returns, does not have custody of user assets, and does not operate as an investment product. 
 Instead, it provides a programmable framework for participation, coordination, and governance, allowing economic outcomes to emerge organically through transparent rules and market behavior.
