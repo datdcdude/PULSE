@@ -1,18 +1,18 @@
-﻿# 7. $PULSE Tokenomics
+$PULSE Tokenomics
 
-## 7.1 Supply
+7.1 Supply
 Fixed supply (100M recommended).  
 Inflation only via DAO approval.
 
-## 7.2 Utility
+7.2 Utility
 - Governance  
 - Tier routing  
 - Protocol participation  
 - Liquidity pairing  
 
-## 7.3 Allocation (Example)
+7.3 Allocation (Example)
 | Category | % |
-------------
+----------------
 | Treasury | 30% |
 | Ecosystem | 25% |
 | Public Liquidity | 25% |
@@ -20,5 +20,6 @@ Inflation only via DAO approval.
 | Partnerships | 5% |
 | DAO Reserve | 5% |
 
-## 7.4 Buybacks
+7.4 Buybacks
 DAO may approve buybacks for liquidity support—not price guarantees.
+
