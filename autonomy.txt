@@ -1,0 +1,52 @@
+﻿# 12. Tier Autonomy Theory
+
+Pulse Protocol tiers reach autonomy at 120 PU's, ensuring self-sustaining regenerative cycles.
+
+---
+
+## 12.1 Tier Activity Units (PU's)
+
+Each cycle = 8 PU's:
+
+---
+
+## 12.2 120-Unit Threshold
+
+
+Breakdown:
+
+- 15 reinvestments  
+- 105 new entries  
+
+---
+
+## 12.3 Mathematical Diagram
+
+---
+
+## 12.4 Regeneration Cycle Diagram
+
+---
+
+## 12.5 Simulation Table
+
+| Cycle # | New Entries | Reinvestments | PU's | Momentum |
+|--------:|------------:|--------------:|------:|----------|
+|    1  | 7  | 1 | 8  | Initial |
+|    5  | 35 | 5 | 40 | Increasing |
+|    10 | 70 | 10| 80 | Accelerating |
+|    15 | 105| 15| 120| Autonomous |
+
+---
+
+## 12.6 Investor-Safe Implications
+
+Autonomy provides:
+
+- Predictable mechanics  
+- Treasury rhythm  
+- Governance expansion  
+- Cycle maturity  
+- Sustainable circulation  
+
+No income implied or promised.

@@ -1,0 +1,12 @@
+﻿# 13. Economic Opportunity Framework
+
+Pulse Protocol does not provide guaranteed returns.  
+It provides structural opportunity surfaces:
+
+- Cycle interaction potential  
+- Treasury-funded contributor roles  
+- Governance power  
+- LP fee exposure  
+- Arbitrage opportunities (market-driven)  
+
+Opportunities emerge from participation, not promises.

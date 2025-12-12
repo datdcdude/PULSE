@@ -1,0 +1,18 @@
+﻿# 8. Treasury Architecture
+
+The Treasury acts as the ecosystem stabilizer.
+
+## Inflows
+- Tier allocations  
+- Donor contributions  
+- Buyback budgets  
+- Partner flows  
+
+## Outflows
+- Security audits  
+- Liquidity reinforcement  
+- Development  
+- Grants / bounties  
+- Governance-funded roles  
+
+Treasury decisions = DAO-controlled.

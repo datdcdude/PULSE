@@ -1,0 +1,16 @@
+﻿# 1. Abstract
+
+Pulse Protocol is a decentralized, regenerative, non-custodial tier engine designed to reverse extractive economic dynamics. 
+Participants progress through four tiers—Bronze, Silver, Gold, and Platinum—culminating in a governance credential known as a PulsePass.
+
+The engine uses deterministic smart-contract logic:
+
+- 8-unit Apex cycles  
+- 1 reinvestment + 7 new entries  
+- Upward tier propulsion  
+- Treasury reinforcement  
+- Autonomous regenerative patterns  
+
+Pulse Protocol promises no financial returns. It offers a transparent structure that transforms participation into governance rather than speculation into yield.
+
+This documentation describes the full architecture, tokenomics, autonomy theory, economic dynamics, and governance structures supporting the protocol.

@@ -1,0 +1,30 @@
+﻿# 15. Legal & Compliance Summary
+
+Pulse Protocol is:
+
+- Non-custodial  
+- Non-investment based  
+- DAO-governed  
+- Yield-free  
+- Open-source  
+
+---
+
+## Token Classification
+
+$PULSE is a utility token, not a financial security.
+
+- No promise of profit  
+- No passive yield  
+- No dividends  
+- No profit-sharing  
+
+---
+
+## Regulatory Appendix for Exchanges
+
+- Non-custodial design  
+- DAO treasury governance  
+- Smart-contract transparency  
+- Audited system components  
+- No expectation of profit clause  

@@ -1,0 +1,8 @@
+﻿# 11. Security Architecture
+
+- Formal verification optional  
+- Third-party audits mandatory  
+- Multi-sig governance  
+- No custodian functions  
+- Immutable or controlled upgrade paths  
+- Incident-management protocol  

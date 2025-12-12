@@ -1,0 +1,16 @@
+﻿# 6. PulsePass
+
+PulsePass is minted when a participant completes Platinum.
+
+It grants:
+
+- Full DAO governance power  
+- Multi-tier perpetual placement  
+- Eligibility for contributor roles  
+- Participation in protocol-level initiatives  
+
+PulsePass is not:
+
+- A yield instrument  
+- A financial security  
+- A return-bearing asset  

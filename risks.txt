@@ -1,0 +1,10 @@
+﻿# 14. Risk Factors
+
+- Market volatility  
+- Contract risk  
+- Governance outcomes  
+- Liquidity fluctuations  
+- Regulatory shifts  
+- Participant inactivity  
+
+All participation is voluntary and at the user's risk.

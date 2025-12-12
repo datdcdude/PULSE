@@ -1,0 +1,33 @@
+﻿# 4. System Overview
+
+Pulse Protocol is composed of four main subsystems:
+
+- Tier Pools  
+- Apex Cycles  
+- PulsePass Governance  
+- DAO-Managed Treasury  
+
+Participants enter Bronze and climb through the ecosystem until they mint a PulsePass.
+
+---
+
+## 4.1 Components
+
+- $PULSE Token – Governance + utility  
+- Tier Pools – Bronze, Silver, Gold, Platinum  
+- Apex Cycle – Fulfilment of 8-unit tiers  
+- PulsePass – Governance NFT-equivalent (non-financial)  
+- Treasury – DAO-controlled sustainability engine  
+- Pulse Protocol DAO** – Community governance body  
+
+---
+
+## 4.2 Participant Lifecycle
+
+1. Enter Bronze  
+2. Progress sequentially up the tiers  
+3. Complete Apex cycles  
+4. Reach Platinum  
+5. Mint PulsePass  
+6. Gain voting rights  
+7. Maintain optional perpetual placement in all tiers  

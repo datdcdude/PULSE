@@ -1,0 +1,11 @@
+﻿# 9. Governance (Pulse Protocol DAO)
+
+Governance powers include:
+
+- Parameter changes  
+- Treasury spending  
+- Tier adjustments  
+- Security upgrades  
+- Delegate elections  
+
+PulsePass holders & $PULSE stakers form the core of governance.
