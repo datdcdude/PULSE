@@ -1,12 +1,14 @@
-﻿Problem Statement
+﻿Problem 
+
 Modern financial systems—traditional and DeFi—are built on extraction:
-Wealth moves upward and stagnates.  
-Governance is concentrated at the top.  
-Speculative incentives overpower sustainability.  
-Tokens inflate without purpose.  
-Pulse Protocol resolves these issues by designing:
-Regenerative cycles instead of extractive flows  
-Participation-earned governance  
-Deterministic mechanics instead of discretionary decisions  
-Sustainable, non-yield-based ecosystem flow  
+-Wealth moves upward and stagnates.  
+-Governance is concentrated at the top.  
+-Speculative incentives overpower sustainability.  
+-Tokens inflate without purpose.  
+-Pulse Protocol resolves these issues by designing:
+-Regenerative cycles instead of extractive flows  
+-Participation-earned governance  
+-Deterministic mechanics instead of discretionary decisions  
+-Sustainable, non-yield-based ecosystem flow  
+
 
