@@ -1,4 +1,4 @@
-﻿# 14. Risk Factors
+﻿Risk Factors
 
 - Market volatility  
 - Contract risk  
@@ -8,3 +8,4 @@
 - Participant inactivity  
 
 All participation is voluntary and at the user's risk.
+
