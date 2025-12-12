@@ -1,16 +1,10 @@
-﻿# 5. Tier Architecture
+﻿Tier Architecture
 
 Each tier operates independently on a fixed 8-unit cycle.
-
----
-
-## 5.1 Apex Mechanics
+5.1 Apex Mechanics
 
 Each Apex cycle includes:
-
----
-
-## 5.2 Pulse Units (PU's)
-
+5.2 Pulse Units (PU's)
 PU = 1 contribution (new entry or reinvestment).  
 Each cycle creates 8 PU's, enabling mathematical modeling of growth and autonomy.
+
