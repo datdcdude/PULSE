@@ -1,4 +1,4 @@
-﻿# 13. Economic Opportunity Framework
+﻿Economic Opportunity Framework
 
 Pulse Protocol does not provide guaranteed returns.  
 It provides structural opportunity surfaces:
@@ -10,3 +10,4 @@ It provides structural opportunity surfaces:
 - Arbitrage opportunities (market-driven)  
 
 Opportunities emerge from participation, not promises.
+
